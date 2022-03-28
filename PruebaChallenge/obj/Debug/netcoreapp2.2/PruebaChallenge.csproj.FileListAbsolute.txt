@@ -1,0 +1,11 @@
+C:\Users\Nicolin\source\repos\PruebaChallenge\PruebaChallenge\bin\Debug\netcoreapp2.2\PruebaChallenge.deps.json
+C:\Users\Nicolin\source\repos\PruebaChallenge\PruebaChallenge\bin\Debug\netcoreapp2.2\PruebaChallenge.runtimeconfig.json
+C:\Users\Nicolin\source\repos\PruebaChallenge\PruebaChallenge\bin\Debug\netcoreapp2.2\PruebaChallenge.runtimeconfig.dev.json
+C:\Users\Nicolin\source\repos\PruebaChallenge\PruebaChallenge\bin\Debug\netcoreapp2.2\PruebaChallenge.dll
+C:\Users\Nicolin\source\repos\PruebaChallenge\PruebaChallenge\bin\Debug\netcoreapp2.2\PruebaChallenge.pdb
+C:\Users\Nicolin\source\repos\PruebaChallenge\PruebaChallenge\obj\Debug\netcoreapp2.2\PruebaChallenge.csprojAssemblyReference.cache
+C:\Users\Nicolin\source\repos\PruebaChallenge\PruebaChallenge\obj\Debug\netcoreapp2.2\PruebaChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Nicolin\source\repos\PruebaChallenge\PruebaChallenge\obj\Debug\netcoreapp2.2\PruebaChallenge.AssemblyInfoInputs.cache
+C:\Users\Nicolin\source\repos\PruebaChallenge\PruebaChallenge\obj\Debug\netcoreapp2.2\PruebaChallenge.AssemblyInfo.cs
+C:\Users\Nicolin\source\repos\PruebaChallenge\PruebaChallenge\obj\Debug\netcoreapp2.2\PruebaChallenge.dll
+C:\Users\Nicolin\source\repos\PruebaChallenge\PruebaChallenge\obj\Debug\netcoreapp2.2\PruebaChallenge.pdb
